@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://konddy55.github.io/supushi-roundtable-lp/sitemap.xml
