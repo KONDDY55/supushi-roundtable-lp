@@ -22,7 +22,8 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 @media print{.site-header,.mobile-cta,.scroll-cue{display:none}.section{padding:36px 0}.reveal{opacity:1;transform:none}}
 
 /* Japanese line-wrap control: balance headings and avoid orphaned punctuation. */
-.hero h1,.section h2{text-wrap:balance}
+.hero h1{text-wrap:balance}
+.section h2{text-wrap:auto}
 .heading-line{display:block;text-wrap:balance}
 .hero-lead{max-width:620px;font-size:clamp(1.05rem,1.65vw,1.2rem);line-height:1.65;text-wrap:balance}
 .hero-note,.section-head>p:last-child,.cta-panel>p{text-wrap:pretty}
