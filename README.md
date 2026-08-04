@@ -13,8 +13,8 @@ window.LP_CONFIG = {
   applicationUrl: "https://申込フォームのURL",
   eventDate: "2026年9月10日（木）19:00〜20:00",
   capacity: "先着15名",
-  contactEmail: "contact@example.com",
-  websiteUrl: "https://example.com/",
+  contactUrl: "https://お問い合わせフォームのURL",
+  websiteUrl: "https://www.richcapital.tokyo/",
   ga4MeasurementId: "G-XXXXXXXXXX",
   gtmContainerId: ""
 };

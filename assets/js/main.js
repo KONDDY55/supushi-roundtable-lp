@@ -5,7 +5,7 @@
 
   document.querySelectorAll("[data-event='date']").forEach((el) => { el.textContent = config.eventDate || "日程調整中"; });
   document.querySelectorAll("[data-event='capacity']").forEach((el) => { el.textContent = config.capacity || "少人数制"; });
-  document.querySelectorAll("[data-contact-link]").forEach((el) => { if (validUrl(config.contactEmail)) el.href = `mailto:${config.contactEmail}`; });
+  document.querySelectorAll("[data-contact-link]").forEach((el) => { if (validUrl(config.contactUrl)) el.href = config.contactUrl; });
   document.querySelectorAll("[data-website-link]").forEach((el) => { if (validUrl(config.websiteUrl)) el.href = config.websiteUrl; });
 
   const track = (eventName, params = {}) => {
