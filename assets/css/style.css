@@ -35,7 +35,7 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 /* 2026-08 copy and hero visual refinements */
 .hero-title-top{display:block;font-size:.62em;line-height:1.38;letter-spacing:-.045em;color:var(--ink)}
 .hero-title-top span{display:block;white-space:nowrap}
-.hero-result{align-self:center;margin:0;padding:18px 24px;background:rgba(223,243,255,.7);color:var(--blue-d);font-size:clamp(2.6rem,4.4vw,3.8rem);font-weight:900;line-height:1.08;letter-spacing:-.075em;text-align:center;white-space:nowrap;transform:translateX(-90px)}
+.hero-result{align-self:center;margin:0;padding:18px 24px;background:transparent;color:var(--blue-d);font-size:clamp(2.6rem,4.4vw,3.8rem);font-weight:900;line-height:1.08;letter-spacing:-.075em;text-align:center;white-space:nowrap;transform:translateX(-90px)}
 .hero-note{font-size:1rem;line-height:1.9}
 .hero-note span{display:block;color:var(--muted);font-size:1rem;font-weight:400;white-space:nowrap}
 .hero-note span+span{margin-top:.2em}
