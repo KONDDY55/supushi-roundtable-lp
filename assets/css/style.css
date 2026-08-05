@@ -35,7 +35,7 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 /* 2026-08 copy and hero visual refinements */
 .hero-title-top{display:block;font-size:.62em;line-height:1.38;letter-spacing:-.045em;color:var(--ink)}
 .hero-title-top span{display:block;white-space:nowrap}
-.hero h1 em{display:block;margin-top:.08em;font-size:1.08em;line-height:1.12;letter-spacing:-.085em;white-space:nowrap}
+.hero h1 em{display:block;margin-top:.08em;font-size:.864em;line-height:1.12;letter-spacing:-.085em;white-space:nowrap}
 .hero-note{font-size:1rem;line-height:1.9}
 .hero-note span{display:block;color:var(--muted);font-size:1rem;font-weight:400}
 .hero-note span+span{margin-top:.2em}
@@ -47,7 +47,7 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 .emphasis-line{margin-top:.2em;color:var(--yellow)}
 .program h2{font-size:clamp(1.65rem,2.7vw,2.25rem)}
 .fit-grid p{min-height:76px;display:flex;align-items:center;line-height:1.55}
-@media(max-width:640px){.hero-title-top{font-size:.58em}.hero-title-top span{white-space:normal;text-wrap:balance}.hero h1 em{font-size:.93em}.hero-note{font-size:.94rem;line-height:1.8}.hero-note span{font-size:.94rem}.visual-card{margin-top:58px}.visual-card figcaption{top:-52px;left:4px;right:4px;min-height:76px;gap:6px;padding:9px 8px}.comparison-side b{font-size:1.25rem}.comparison-side small{font-size:.67rem}.comparison-arrow{font-size:1.2rem}.program h2{font-size:1.7rem}.fit-grid p{min-height:0}}
+@media(max-width:640px){.hero-title-top{font-size:.58em}.hero-title-top span{white-space:normal;text-wrap:balance}.hero h1 em{font-size:.744em}.hero-note{font-size:.94rem;line-height:1.8}.hero-note span{font-size:.94rem}.visual-card{margin-top:58px}.visual-card figcaption{top:-52px;left:4px;right:4px;min-height:76px;gap:6px;padding:9px 8px}.comparison-side b{font-size:1.25rem}.comparison-side small{font-size:.67rem}.comparison-arrow{font-size:1.2rem}.program h2{font-size:1.7rem}.fit-grid p{min-height:0}}
 
 /* 2026-08-04 content layout refinements */
 .hero-lead{max-width:650px}
