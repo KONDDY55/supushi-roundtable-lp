@@ -68,7 +68,7 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 
 /* 2026-08-05 readability and footer alignment */
 .hero-grid{grid-template-columns:minmax(0,1.36fr) minmax(0,.64fr);gap:28px}
-.hero-visual{align-self:start;width:430px;margin-top:300px;transform:translateX(-36px)}
+.hero-visual{align-self:start;width:560px;margin-top:280px;transform:translateX(-115px)}
 .footer-organizer{display:grid;grid-template-columns:auto 1fr;align-items:start}
 .footer-organizer p{margin-top:2px}
 @media(max-width:900px){.hero-grid{grid-template-columns:1fr}.hero-visual{width:auto;margin-top:34px;transform:none}.program-heading-main{white-space:nowrap!important;font-size:.84em}}
