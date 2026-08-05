@@ -73,7 +73,7 @@ img{display:block;max-width:100%;height:auto}a{color:inherit}button,a{-webkit-ta
 .hero-headline-row{text-align:center}
 .hero-headline-row h1{margin:0;font-size:clamp(2.35rem,4.2vw,3.65rem);line-height:1.23}
 .hero-title-first{display:block;margin:0 auto .22em;white-space:nowrap}
-.hero-title-second{display:flex;align-items:baseline;justify-content:center;gap:.55em;white-space:nowrap}
+.hero-title-second{display:flex;align-items:baseline;justify-content:center;gap:.12em;white-space:nowrap}
 .hero-title-second .hero-result{font-size:1.08em}
 .hero-title-top{font-size:1em;line-height:1.35;letter-spacing:-.055em}
 .hero-copy{align-self:start;padding-top:8px}
